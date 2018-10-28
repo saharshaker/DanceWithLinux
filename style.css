@@ -1,0 +1,38 @@
+.container{
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Cookie", serif;
+    font-size: 2rem;
+}
+
+.container div{
+    margin-top: 1rem;
+}
+
+.container div a{
+    text-decoration: none;
+    color: whitesmoke;
+    background-color: #E54656;
+    border-radius: 4px ;
+    padding-right: 4px;
+    padding-left: 4px;
+}
+
+.container div a:hover{
+    background-color: #c70000e2;
+}
+
+.footer{
+    font-size: 1.7rem;
+    position: absolute;
+
+    bottom: 1rem;
+}
+@font-face {
+    font-family: "Cookie";
+    font-style: normal;
+    font-weight: 400;
+    src: url("font/syky-y18lb0tSbf9kgqS.woff2") format("woff2");
+}
