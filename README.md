@@ -1,2 +1,2 @@
 # DanceWithLinux
-کتابی فان برای آموزش لینوکس به زبان فارسی
+A fun book for learning Linux in Persian.
